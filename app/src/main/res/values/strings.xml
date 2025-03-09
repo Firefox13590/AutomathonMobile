@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Automathon</string>
+
+    <string-array name="availableGames">
+        <item>Pocket Crafter 2</item>
+        <item>Idle Pocket crafter</item>
+        <item>Idle Skilling</item>
+    </string-array>
+</resources>
